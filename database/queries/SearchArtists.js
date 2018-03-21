@@ -19,7 +19,7 @@ module.exports = (criteria, sortProperty, offset = 0, limit = 20) => {
     .then(results => {
       return {
         all: results[0],
-        count: results[1],
+        count: results[0].length,
         offset,
         limit
       }
