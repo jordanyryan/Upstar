@@ -5,7 +5,7 @@ You can download this repository by using the green `Clone or Download` button o
 If you want to download it using git, copy paste the link that is presented to you, then run the following at your terminal:
 
 ```
-git clone https://github.com/jordany/upstar.git
+git clone https://github.com/jordanyryan/upstar.git
 cd upstar
 npm install
 ```
